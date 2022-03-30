@@ -8,10 +8,8 @@ public class TestCase002 {
 
 // are the clicklalbe
 
+
 // doing some more changes
-
-    //some changes again to check merging
-
 
 }
 
