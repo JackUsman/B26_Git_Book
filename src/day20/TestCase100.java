@@ -8,5 +8,7 @@ public class TestCase100 {
 
     //verify the total price of the item.
 
+    // verify the secure payment.
+
 
 }
